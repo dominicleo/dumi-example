@@ -1,0 +1,12 @@
+{
+  "name": "dumi-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "APP_ROOT=packages/site dumi dev"
+  },
+  "devDependencies": {
+    "dumi": "^1.1.31",
+    "lerna": "^4.0.0"
+  }
+}
